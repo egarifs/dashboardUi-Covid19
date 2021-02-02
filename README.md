@@ -1,6 +1,30 @@
-# dashboard_ui
+# Dashboard_ui
 
-A new Flutter project.
+Belajar membuat Dasboard UI COVID-19
+
+
+## Preview
+<img src="/assets/screenshot/a_dashboard.png" width="32%"/> <img src="/assets/screenshot/b_statistic.png" width="32%"/> <img src="/assets/screenshot/c_grafik.png" width="32%"/>
+
+## Features:
+* Home Screen
+* Navbar
+* Reusable Widgets
+
+## Folder Structere
+Here is the folder structure we have been using in this project
+
+```
+lib/
+|- config/
+|- data/
+|- screens/
+|- widgets/
+|- main.dart
+```
+## dependencies:
+`bubble_tab_indicator: ^0.1.4`
+`fl_chart: ^0.12.2`
 
 ## Getting Started
 
